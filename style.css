@@ -1,0 +1,61 @@
+:root{
+  --bg:#0f172a;
+  --surface:rgba(255,255,255,0.08);
+  --border:rgba(255,255,255,0.1);
+  --text:#f8fafc;
+  --shadow:0 10px 30px rgba(0,0,0,0.2);
+}
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  min-height:100vh;
+
+  display:flex;
+  justify-content:center;
+  align-items:center;
+
+  font-family:Arial, sans-serif;
+
+  background:
+    linear-gradient(
+      135deg,
+      #1e3c72,
+      #2a5298
+    );
+
+  color:var(--text);
+}
+
+.container{
+  width:100%;
+  display:flex;
+  justify-content:center;
+}
+
+.card{
+  width:320px;
+
+  padding:32px;
+
+  border-radius:20px;
+
+  background:var(--surface);
+
+  backdrop-filter:blur(12px);
+
+  border:
+    1px solid var(--border);
+
+  box-shadow:var(--shadow);
+
+  text-align:center;
+}
+
+.card h1{
+  margin-bottom:12px;
+}
