@@ -5,6 +5,10 @@
 ![WCAG](https://img.shields.io/badge/WCAG-Accessible-green?style=for-the-badge)
 
 ![Performance](https://img.shields.io/badge/Rendering-GPU%20Aware-blueviolet?style=for-the-badge)
+
+## Preview
+
+![Preview](assets/preview.png)
 # Cores, Gradientes e Efeitos Visuais no CSS
 
 ## CSS Moderno e Renderização Visual
