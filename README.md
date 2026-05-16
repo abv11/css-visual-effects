@@ -18,7 +18,7 @@ css-visual-effects/
 │   ├── shadows.html
 │   ├── filters.html
 │   └── accessibility.html
-└── docs/                   # Notas técnicas aprofundadas
+└── docs/                   # Notas
     ├── rendering-notes.md
     ├── performance.md
     └── wcag-notes.md
