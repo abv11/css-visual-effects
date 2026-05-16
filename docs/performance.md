@@ -1,13 +1,16 @@
-# Performance e Renderização
+# Performance
 
 ## Repaint
-Sombras intensas e blur podem aumentar custo de repaint.
 
-## GPU Composition
-Filtros visuais frequentemente utilizam composição acelerada por GPU.
+Blur e múltiplas sombras aumentam custo de repaint.
+
+## GPU
+
+Filtros frequentemente utilizam composição acelerada.
 
 ## Boas práticas
-- evitar blur excessivo;
-- reduzir múltiplas sombras;
-- manter contraste eficiente;
-- reutilizar variáveis CSS.
+
+- evitar excesso de blur;
+- reduzir sombras exageradas;
+- reutilizar variáveis CSS;
+- manter contraste adequado.
