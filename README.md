@@ -5,9 +5,36 @@
 ![WCAG](https://img.shields.io/badge/WCAG-Accessible-green?style=for-the-badge)
 
 ![Performance](https://img.shields.io/badge/Rendering-GPU%20Aware-blueviolet?style=for-the-badge)
+
+![W3C](https://shields.io)
+
+![Git](https://shields.io)
+
+![GitHub](https://shields.io)
+
 ## Preview
 
 ![Preview](assets/preview.png)
+
+## 📁 Estrutura do Repositório
+
+```txt
+css-visual-effects/
+├── README.md               # Roteiro e documentação principal
+├── index.html              # Interface de demonstração do projeto
+├── style.css               # Estilização global e variáveis nativas
+├── sections/               # Fragmentos HTML de estudo de caso
+│   ├── colors.html
+│   ├── gradients.html
+│   ├── shadows.html
+│   ├── filters.html
+│   └── accessibility.html
+└── docs/                   # Notas técnicas aprofundadas
+    ├── rendering-notes.md
+    ├── performance.md
+    └── wcag-notes.md
+```
+
 # Cores, Gradientes e Efeitos Visuais no CSS
 
 ## CSS Moderno e Renderização Visual
