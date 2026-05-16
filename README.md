@@ -8,7 +8,7 @@
 
 ## Preview
 
-![Preview](assets/preview.png)
+![Preview](css-visual-effects/assets/preview.png)
 # Cores, Gradientes e Efeitos Visuais no CSS
 
 ## CSS Moderno e Renderização Visual
