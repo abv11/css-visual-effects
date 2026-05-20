@@ -9,7 +9,7 @@
 
 ```txt
 css-visual-effects/
-├── README.md               # Roteiro e documentação principal
+├── README.md               # Documentação principal
 ├── index.html              # Interface de demonstração do projeto
 ├── style.css               # Estilização global e variáveis nativas
 ├── sections/               # Fragmentos HTML de estudo de caso
